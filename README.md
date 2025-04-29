@@ -1,5 +1,3 @@
-Amabile Antunes
-
 **Programadora em formação.**
 
 Me chamo Amabile, tenho 22 anos.
