@@ -4,7 +4,7 @@ Me chamo Amabile, tenho 22 anos.
 <br>
 Estou no 4º semestre de Análise e Desenvolvimento de Sistemas. 
 <br>
-Atualmente estou aprendendo Java, Spring Boot, MySQL, POO e lógica de programação. Também tenho conhecimento básico em desenvolvimento Web front-end.
+Atualmente estou aprendendo Java, Spring, MySQL, POO e lógica de programação. Também tenho conhecimento básico em desenvolvimento Web front-end.
 
 Meu linkedin: "[Amabile Antunes](https://www.linkedin.com/in/amabile-antunes-4b5218295/)"
 
