@@ -16,7 +16,7 @@ Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b52
     alt="Java" 
     title="Java"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
@@ -24,7 +24,7 @@ Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b52
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -32,7 +32,7 @@ Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b52
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -40,7 +40,7 @@ Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b52
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -48,7 +48,7 @@ Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b52
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
 <img 
@@ -56,6 +56,6 @@ Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b52
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
