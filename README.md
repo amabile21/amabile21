@@ -6,7 +6,7 @@ Estou no 4º semestre de Análise e Desenvolvimento de Sistemas.
 <br>
 Atualmente estou aprendendo Java, SQL, POO e lógica de programação.
 
-Meu linkedin: "[Amabile Tchach](https://www.linkedin.com/in/amabile-antunes-4b5218295/)"
+Meu linkedin: "[Amabile Antunes](https://www.linkedin.com/in/amabile-antunes-4b5218295/)"
 
 
 ### 🤖 Linguagens e Tecnologias
