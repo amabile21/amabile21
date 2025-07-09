@@ -1,8 +1,8 @@
 **Programadora em formação.**
 
-Me me chamo Amabile, tenho 22 anos.
+Me chamo Amabile, tenho 22 anos.
 <br>
-Estou no 4º semestre de Análise e Desenvolvimento de Sistemas. 
+Estou no 5º semestre de Análise e Desenvolvimento de Sistemas. 
 <br>
 Atualmente estou aprendendo Java, SQL, POO e lógica de programação.
 
