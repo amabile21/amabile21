@@ -6,7 +6,7 @@ Atualmente estou estudando e criando projetos com as linguagens: Java, HTML, CSS
 
 Também estou estudando SQL, POO e lógica de programação.
 
-Meu linkedin: [Amabile Antunes]((https://www.linkedin.com/in/amabileantunes/))
+Meu linkedin: "[Amabile Antunes]((https://www.linkedin.com/in/amabileantunes/))"
 
 
 ### 🤖 Linguagens e Tecnologias
