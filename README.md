@@ -1,10 +1,10 @@
-**Programadora em formação.**
-
-Me chamo Amabile, tenho 22 anos.
+### Olá, eu sou a Amabile.
 <br>
 Estou no 5º semestre de Análise e Desenvolvimento de Sistemas. 
 <br>
-Atualmente estou aprendendo Java, SQL, POO e lógica de programação.
+Atualmente estou estudando e criando projetos com as linguagens Java, HTML, CSS e JavaScript.
+<br>
+Também estou estudando SQL, POO e lógica de programação.
 
 Meu linkedin: "[Amabile Antunes](https://www.linkedin.com/in/amabile-antunes-4b5218295/)"
 
@@ -59,3 +59,7 @@ Meu linkedin: "[Amabile Antunes](https://www.linkedin.com/in/amabile-antunes-4b5
     style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amabile21&layout=compact)
