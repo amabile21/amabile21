@@ -1,12 +1,12 @@
 ### Olá, eu sou a Amabile.
-<br>
-Estou no 5º semestre de Análise e Desenvolvimento de Sistemas. 
-<br>
-Atualmente estou estudando e criando projetos com as linguagens Java, HTML, CSS e JavaScript.
-<br>
+
+Programadora backend em formação.
+
+Atualmente estou estudando e criando projetos com as linguagens: Java, HTML, CSS e JavaScript.
+
 Também estou estudando SQL, POO e lógica de programação.
 
-Meu linkedin: "[Amabile Antunes](https://www.linkedin.com/in/amabile-antunes-4b5218295/)"
+Meu linkedin: [Amabile Antunes]((https://www.linkedin.com/in/amabileantunes/))
 
 
 ### 🤖 Linguagens e Tecnologias
